@@ -9,7 +9,6 @@ All assets are my own, except the sounds.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
